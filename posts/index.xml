@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on LYG&#39;s Site</title>
-    <link>http://example.org/posts/</link>
+    <link>https://liuyugg.github.io/posts/</link>
     <description>Recent content in Posts on LYG&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Apr 2020 12:07:15 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liuyugg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>http://example.org/posts/hello/</link>
+      <link>https://liuyugg.github.io/posts/hello/</link>
       <pubDate>Mon, 13 Apr 2020 12:07:15 +0800</pubDate>
       
-      <guid>http://example.org/posts/hello/</guid>
+      <guid>https://liuyugg.github.io/posts/hello/</guid>
       <description>H E L L O #日常</description>
     </item>
     
