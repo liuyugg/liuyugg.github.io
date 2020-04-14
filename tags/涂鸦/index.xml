@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>涂鸦 on LYG&#39;s Site</title>
+    <link>https://liuyugg.github.io/tags/%E6%B6%82%E9%B8%A6/</link>
+    <description>Recent content in 涂鸦 on LYG&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2020 12:07:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://liuyugg.github.io/tags/%E6%B6%82%E9%B8%A6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://liuyugg.github.io/posts/hello/</link>
+      <pubDate>Mon, 13 Apr 2020 12:07:15 +0800</pubDate>
+      
+      <guid>https://liuyugg.github.io/posts/hello/</guid>
+      <description>H E L L O </description>
+    </item>
+    
+  </channel>
+</rss>
