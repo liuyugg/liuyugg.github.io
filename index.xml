@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LYG&#39;s Site</title>
+    <title>Hello Friend 果</title>
     <link>https://liuyugg.github.io/</link>
-    <description>Recent content on LYG&#39;s Site</description>
+    <description>Recent content on Hello Friend 果</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Apr 2020 13:48:16 +0800</lastBuildDate>
@@ -27,6 +27,15 @@
       
       <guid>https://liuyugg.github.io/posts/2020-04-14-01/</guid>
       <description>武士 </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://liuyugg.github.io/about/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://liuyugg.github.io/about/</guid>
+      <description>Hi there 😋 </description>
     </item>
     
     <item>
@@ -54,6 +63,15 @@
       
       <guid>https://liuyugg.github.io/posts/2020-04-10/</guid>
       <description>好好写字 </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://liuyugg.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liuyugg.github.io/archive/</guid>
+      <description></description>
     </item>
     
   </channel>
